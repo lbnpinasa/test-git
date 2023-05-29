@@ -2,6 +2,6 @@ Catatan
 1. Satu
 2. Dua
 3. Tiga
-4. empat (ini hasil edit pertama)
 5. lima (ini juga hasil edit pertama)
+6. enam (menghapus 4 dan menambah ini edit kedua)
 
