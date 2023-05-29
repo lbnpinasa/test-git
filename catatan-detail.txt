@@ -3,5 +3,6 @@ Ini catatan detail
 2. Detail Dua
 3. Detail Tiga (setelah menambah branch catatan-detail)
 4. Detail Empat (setelah merge)
+4. a Anak dari Empat (dari branch1 edit 2)
 5. Detail Lima (dari Branch1 edit 1)
 6. Detail Enam (dari Branch1 edit 1)
