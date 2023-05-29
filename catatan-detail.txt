@@ -7,3 +7,4 @@ Ini catatan detail
 4. a Anak dari Empat (dari branch1 edit 2)
 7. Detail Lima (dari Branch1 edit 1)
 6. Detail Enam (dari Branch1 edit 1)
+8. Ini dari akun ehansenp
